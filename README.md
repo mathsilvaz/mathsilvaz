@@ -14,7 +14,7 @@
   <a href = "mailto:mathsilvasm@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"target="_blank"></a>
   <a href = "https://wa.me/5511989359118"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank">
  </a>
-  <img align="right" alt ="Gif-Matheus" src="C:\Users\MCM\Desktop\042264f5c9b05e034f5833f7ce4140f8.gif">
+  <img align="right" alt ="Gif-Matheus" src="https://media.giphy.com/media/9V6ZmVFnhWCFHPuuCj/giphy.gif">
 </div>
 
 <br/>
